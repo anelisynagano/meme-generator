@@ -1,0 +1,9 @@
+#memeText {
+    font-size: 40px;
+    color: white;
+    text-shadow: black 0px 0px 10px;
+    position: absolute;
+    left: 15px;
+    top: 400px;
+    font-family: 'Anton', sans-serif;
+}
